@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Agustín Del Valle  
 
-<!--
-**agusdelva26/agusdelva26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **estudiante de Ingeniería Industrial** con especial interés en **Análisis de Datos y Ciencia de Datos**. Me apasiona trabajar con datos para resolver problemas y tomar decisiones.  
 
-Here are some ideas to get you started:
+🔹 **Habilidades:** Python, SQL, Power BI, Excel  
+🔹 **Intereses:** Análisis de Datos 📊, Geopolítica 🌍, Machine Learning 🤖  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos Destacados  
+🔹 **[Probabilidad y Estadística – Ejercicios Resueltos]([https://github.com/tu_usuario/probabilidad-estadistica](https://github.com/agusdelva26/Probability-and-statistics-guide-1))** → Resolución de problemas matemáticos con Python.  
+
+---
+
+## 📬 Contacto  
+📧 **Email:** agusdelva.16@gmail.com  
+🔗 **LinkedIn:** [Perfil](https://www.linkedin.com/in/agusdelva/)  
+🔗 **GitHub:** [Perfil](https://github.com/agusdelva26)  
+
+---
+
+⭐ ¡No dudes en explorar mis repositorios y conectar conmigo! 🚀  
