@@ -8,7 +8,7 @@ Soy **estudiante de Ingeniería Industrial** con especial interés en **Análisi
 ---
 
 ## 🚀 Proyectos Destacados  
-🔹 **[Probabilidad y Estadística – Ejercicios Resueltos]([https://github.com/tu_usuario/probabilidad-estadistica](https://github.com/agusdelva26/Probability-and-statistics-guide-1))** → Resolución de problemas matemáticos con Python.  
+🔹 **[Probabilidad y Estadística – Ejercicios Resueltos](https://github.com/agusdelva26/Probability-and-statistics-guide-1)** → Resolución de problemas matemáticos con Python.  
 
 ---
 
